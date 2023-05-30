@@ -1,0 +1,24 @@
+/* .shop-container {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+}
+
+.products-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+@media only screen and (max-width: 600px) {
+    .shop-container {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+    .products-container {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+} */
+
+.cart-container {
+    background-color: #FFE0B3;
+}

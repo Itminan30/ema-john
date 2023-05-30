@@ -1,0 +1,11 @@
+.addTo-cart-btn {
+    background-color: #FFE0B3 !important;
+    color: black !important;
+    border: none !important;
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+}
+
+.addTo-cart-btn:hover {
+    background-color: orange !important;
+}
